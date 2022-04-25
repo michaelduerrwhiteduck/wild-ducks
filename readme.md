@@ -1,6 +1,7 @@
-# Vanilla JavaScript App
+# Wild Ducks by white duck Gesellschaft für Softwareentwicklung mbH
 
+Simple Web App with Github Action for deploying to [Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps/overview) 
 
-[Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps/overview) allows you to easily build JavaScript apps in minutes. Use this repo with the [quickstart](https://docs.microsoft.com/azure/static-web-apps/getting-started?tabs=vanilla-javascript) to build and customize a new static site.
+[white duck Gesellschaft für Softwareentwicklung mbH](https://whiteduck.de/)
 
-This repo is used as a starter for a _very basic_ HTML web application using no front-end frameworks.
+[white duck at github](https://github.com/whiteducksoftware)
